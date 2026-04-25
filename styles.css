@@ -19,6 +19,8 @@
 	font-size: 18px;
 	padding: 18px 27px;
 	border-right: 2px solid white;
+	margin: 0;
+	cursor: pointer;
 }
 
 .navbar .left li:last-child {
@@ -31,5 +33,4 @@
 
 .navbar li:hover {
 	background-color: #b90e4d;
-	cursor: pointer;
 }
